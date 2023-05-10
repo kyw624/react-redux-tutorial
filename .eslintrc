@@ -1,0 +1,4 @@
+{
+  // App.css Parsing Error 해결
+  "parser": "babel-parser"
+}
